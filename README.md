@@ -1,3 +1,11 @@
+# blackroad-particle-system
+
+> GPU-friendly particle system simulation
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
 # BlackRoad Particle System
 
 GPU-friendly particle system simulation with physics fields and ASCII rendering.
